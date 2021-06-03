@@ -1,0 +1,10 @@
+2-faced	-1
+2-faces	-1
+a+	1
+abnormal	-1
+abolish	-1
+abominable	-1
+abominably	-1
+abominate	-1
+abomination	-1
+abort	-1

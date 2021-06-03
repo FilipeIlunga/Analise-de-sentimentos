@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1539568576 source:a:\ed\trabalho pratico\code\analise_de_sentimento\ads.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1539535741 a:\ed\trabalho pratico\code\analise_de_sentimento\ads.h
+
+1539568683 source:a:\ed\trabalho pratico\code\analise_de_sentimento\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1541338556 source:a:\eng. da computa«√o - ufrgs\ed\trabalho pratico\code\analise_de_sentimento\ads.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1541338537 a:\eng. da computa«√o - ufrgs\ed\trabalho pratico\code\analise_de_sentimento\ads.h
+
+1541338578 source:a:\eng. da computa«√o - ufrgs\ed\trabalho pratico\code\analise_de_sentimento\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"ADS.h"
+
+1543683449 source:c:\users\sr. ilunga\3d objects\analise_de_sentimento\ads.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1543683449 c:\users\sr. ilunga\3d objects\analise_de_sentimento\ads.h
+
+1543684081 source:c:\users\sr. ilunga\3d objects\analise_de_sentimento\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1543679848 source:c:\analise_de_sentimento\ads.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1543679848 c:\analise_de_sentimento\ads.h
+
+1544022905 source:c:\analise_de_sentimento\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
+1544202013 source:c:\users\sr. ilunga\desktop\trabalho_final\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+	<time.h>
+
+1544201846 c:\users\sr. ilunga\desktop\trabalho_final\ads.h
+
+1544201459 source:c:\users\sr. ilunga\desktop\trabalho_final\ads.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"ADS.h"
+
